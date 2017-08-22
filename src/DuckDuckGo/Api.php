@@ -11,6 +11,7 @@ Class Api
 {
     /**
      * Api endpoint url.
+     * 
      * @var string
      */
     protected $endpoint;
@@ -25,6 +26,7 @@ Class Api
 
     /**
      * Perform a query against the DuckDuckGo API.
+     * 
      * @param  string $query
      * @throws Exception
      * @return Json

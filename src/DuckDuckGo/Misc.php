@@ -6,6 +6,7 @@ class Misc
 {
     /**
      * Path of config.php file
+     * 
      * @var string
      */
     private $configPath;
